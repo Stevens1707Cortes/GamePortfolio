@@ -2718,12 +2718,12 @@ input[type="button"].btn-block {
       -o-transition: none;
       transition: none; } }
 
-#commit-list{
+.commit-list{
   margin-bottom: 5%;
   margin-top: 5%;
 }
 
-#commit-list img{
+.commit-list img{
   width: 60%;
 }
 
